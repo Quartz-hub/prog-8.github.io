@@ -18,7 +18,7 @@ a {
 
 
 .top-wrapper {
-  padding: 180px 0 300px 0;
+  padding: 180px 0 200px 0;
   background-image: url(https://user-images.githubusercontent.com/77532622/105858673-efa0ff80-602e-11eb-8e78-4995b41fefe4.jpg);
   background-size: cover;
   color: black;
@@ -124,6 +124,7 @@ header {
   padding-top: 60px;
   padding-bottom: 30px;
   color: #5f5d60;
+  font-size:20px;
 }
 
 .heading h2 {
@@ -146,9 +147,11 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 90px;
-  width: 100%;
-  color: white;
+  top: 170px;
+  width: 130%;
+  color: black;
+  font-family:serif;
+   color: #5f5d60;
   
 }
 
